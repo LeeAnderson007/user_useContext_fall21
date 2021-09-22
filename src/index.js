@@ -7,6 +7,7 @@ import { BrowserRouter } from 'react-router-dom';
 import UserProvider from './providers/UserProvider';
 import 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import "react-bootstrap-icons"
 
 
 ReactDOM.render(
